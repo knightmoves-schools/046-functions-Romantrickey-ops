@@ -1,7 +1,4 @@
-square multiplied(a, b){
- return a * b;
+function square(a){
+ return a*a
 }
-let multiplied = square(a, b){
-return a * b;
-
-document.getElementById("result").innerHTML = square(3, 2);
+document.getElementById("result").innerHTML = square(5);
