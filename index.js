@@ -1,4 +1,4 @@
-square subtract(a, b){
+Square(a, b){
 return a * b;
 }
 
